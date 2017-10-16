@@ -1,0 +1,5 @@
+GIS1_population/ACS_2015_5YR_COUNTY.gdb/a00000013.gdbtable filter=lfs diff=lfs merge=lfs -text
+GIS1_population/ACS_2015_5YR_COUNTY.gdb/a0000001c.gdbtable filter=lfs diff=lfs merge=lfs -text
+GIS1_population/ACS_2015_5YR_COUNTY.gdb/a00000024.gdbtable filter=lfs diff=lfs merge=lfs -text
+GIS1_population/ACS_2015_5YR_COUNTY.gdb/a0000002b.gdbtable filter=lfs diff=lfs merge=lfs -text
+GIS2_terrain_yoyCityChange/DEM/output_srtm.tif filter=lfs diff=lfs merge=lfs -text
